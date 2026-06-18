@@ -1,0 +1,11 @@
+venv/
+.pylintrc
+__pycache__/
+
+.pycharm
+.idea
+.env
+
+db.sqlite3
+media/
+products/
